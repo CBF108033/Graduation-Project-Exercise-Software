@@ -3,7 +3,7 @@
 <div align=center><img alt="exercise" src="./images/AllPose.png" width=35%></div>
 <br/>
 
-### 主系統
+## 主系統
 - **簡介**  
 本健身訓練應用程式採用Google的MediaPipe為核心，使用體感介面以手勢操作系統，若隨時想要暫停或是切換動作只需要做特定姿勢，不需要走到電腦前操控介面就能達成目的，如此增加使用者運動流程的流線化，提高使用者運動的效率。當使用者動作不確實時會提供即時語音回饋，因此使用者可以由反覆的動作糾正逐漸抓到動作的要領。
 <div align=center><img alt="AR Museum" src="./images/all.jpg" width=70%></div>  
@@ -14,8 +14,12 @@
 <div align=center><img alt="tech" src="./images/technology.jpg" width=50%></div>  
 <br/>
 
+- **流程**
+<div align=center><img alt="tech" src="./images/process.png" width=25%></div>  
+<br/>
+
 - **實際操作**
-<div>
+<div align=center>
 <img alt="tech" src="./images/exercisingPredict.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="tech" src="./images/exercising.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="tech" src="./images/exercisingMusic.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,3 +27,16 @@
 <img alt="tech" src="./images/exercisePoseSwitch.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="tech" src="./images/exercisingUserSwitch.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+<br/>
+
+## 滿版介紹頁面
+提供簡易式的滿版介紹頁面，以及游標滑過時顯示更多簡介說明，方便快速了解產品資訊。
+<div align=center>
+  <img alt="exercise" src="./images/exerciseIntroWeb.png" width=50%>&emsp;&emsp;&emsp;
+  <img alt="exercise" src="./images/exerciseIntroWeb2.png" height="200">
+</div>
+<br/>
+
+## 網頁版紀錄查詢
+提供管理者查詢所有使用者運動紀錄，系統框架為Django，使用語言為Python，前端開發工具包含Bootstrap 5。
+<div align=center><img alt="exercise" src="./images/exerciseRecordWeb.png" width=50%></>

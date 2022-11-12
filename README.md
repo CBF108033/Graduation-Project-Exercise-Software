@@ -39,4 +39,12 @@
 
 ## 網頁版紀錄查詢
 提供管理者查詢所有使用者運動紀錄，系統框架為Django，使用語言為Python，前端開發工具包含Bootstrap 5。
-<div align=center><img alt="exercise" src="./images/exerciseRecordWeb.png" width=50%></>
+<div align=center><img alt="exercise" src="./images/exerciseRecordWeb.png" width=50%></div>
+<br/>
+
+## 參考資源
+- 介面/主題
+  - [【Azure-ttk-theme】](https://github.com/rdbende/Azure-ttk-theme)
+  - [【The ttk widget】](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/ttk-widget-set.html)
+- 資料庫建立
+  - [【LearnVern-Installing Database in Python】](https://www.learnvern.com/core-python-programming-tutorial-in-hindi/installing-database-in-python)

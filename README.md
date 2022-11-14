@@ -5,12 +5,12 @@
 
 ## 主系統
 - **簡介**  
-本健身訓練應用程式採用Google的MediaPipe為核心，使用體感介面以手勢操作系統，若隨時想要暫停或是切換動作只需要做特定姿勢，不需要走到電腦前操控介面就能達成目的，如此增加使用者運動流程的流線化，提高使用者運動的效率。當使用者動作不確實時會提供即時語音回饋，因此使用者可以由反覆的動作糾正逐漸抓到動作的要領。
+本健身訓練應用程式採用[Google的MediaPipe](https://github.com/google/mediapipe)為核心，使用體感介面以手勢操作系統，若隨時想要暫停或是切換動作只需要做特定姿勢，不需要走到電腦前操控介面就能達成目的，如此增加使用者運動流程的流線化，提高使用者運動的效率。當使用者動作不確實時會提供即時語音回饋，因此使用者可以由反覆的動作糾正逐漸抓到動作的要領。
 <div align=center><img alt="AR Museum" src="./images/all.jpg" width=80%></div>  
 <br/>
 
 - **技術**  
-本應用使用CNN、OpenCV+MediaPipe的姿勢識別模型BlazePose。 使用CNN訓練建立三動作模型預測使用者動作，以及透過OpenCV讀取每一幀的影像並使用BlazePose高準度身體姿勢追蹤的機器學習推測出全身的關鍵點。
+本應用使用CNN、[OpenCV](https://opencv.org/)+MediaPipe的姿勢識別模型[BlazePose](https://google.github.io/mediapipe/solutions/pose.html)。 使用CNN訓練建立三動作模型預測使用者動作，以及透過OpenCV讀取每一幀的影像並使用BlazePose高準度身體姿勢追蹤的機器學習推測出全身的關鍵點。
 <div align=center><img alt="tech" src="./images/technology.jpg" width=50%></div>  
 <br/>
 
@@ -38,7 +38,7 @@
 <br/>
 
 ## 網頁版紀錄查詢
-提供管理者查詢所有使用者運動紀錄，系統框架為Django，使用語言為Python，前端開發工具包含Bootstrap 5。
+提供管理者查詢所有使用者運動紀錄，系統框架為[Django](https://www.djangoproject.com/)，使用語言為Python，前端開發工具包含[Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)。
 <div align=center><img alt="exercise" src="./images/exerciseRecordWeb.png" width=50%></div>
 <br/>
 

@@ -49,4 +49,4 @@
 - 資料庫建立
   - [【LearnVern-Installing Database in Python】](https://www.learnvern.com/core-python-programming-tutorial-in-hindi/installing-database-in-python)  
 
-<img src="./markups/">
+<img src="./markups">

@@ -1,6 +1,6 @@
 # 專題—健體端勢
 【健體端勢】便利實用的居家運動輔助軟體，具運動姿勢預測、 語音提示以修正姿勢、帳號註冊登入、體感介面、即時熱量消耗、歷史紀錄查詢等功能。  
-<div align=center><img alt="exercise" src="./images/AllPose.png" width=40%></div>
+<div align=center><img alt="exercise" src="./images/AllPose.png" width=60%></div>
 <br/>
 
 ## 主系統
@@ -15,17 +15,17 @@
 <br/>
 
 - **流程**
-<div align=center><img alt="tech" src="./images/process.png" width=30%></div>  
+<div align=center><img alt="tech" src="./images/process.png" width=50%></div>  
 <br/>
 
 - **實際操作**
 <div align=center>
-<img alt="tech" src="./images/exercisingPredict.gif" width=30%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="tech" src="./images/exercising.gif" width=30%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="tech" src="./images/exercisingMusic.gif" width=30%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="tech" src="./images/exercisingStop.gif" width=30%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="tech" src="./images/exercisePoseSwitch.gif" width=30%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="tech" src="./images/exercisingUserSwitch.gif" width=30%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="tech" src="./images/exercisingPredict.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="tech" src="./images/exercising.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="tech" src="./images/exercisingMusic.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="tech" src="./images/exercisingStop.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="tech" src="./images/exercisePoseSwitch.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="tech" src="./images/exercisingUserSwitch.gif" width=27%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br/>
 

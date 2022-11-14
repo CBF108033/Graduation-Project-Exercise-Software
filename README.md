@@ -3,8 +3,6 @@
 <div align=center><img alt="exercise" src="./images/AllPose.png" width=60%></div>
 <br/>
 
-<img src="./markups/info-markup.svg">
-
 ## 主系統
 - **簡介**  
 本健身訓練應用程式採用[Google的MediaPipe](https://github.com/google/mediapipe)為核心，使用體感介面以手勢操作系統，若隨時想要暫停或是切換動作只需要做特定姿勢，不需要走到電腦前操控介面就能達成目的，如此增加使用者運動流程的流線化，提高使用者運動的效率。當使用者動作不確實時會提供即時語音回饋，因此使用者可以由反覆的動作糾正逐漸抓到動作的要領。
@@ -49,4 +47,6 @@
   - [【Azure-ttk-theme】](https://github.com/rdbende/Azure-ttk-theme)
   - [【The ttk widget】](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/ttk-widget-set.html)
 - 資料庫建立
-  - [【LearnVern-Installing Database in Python】](https://www.learnvern.com/core-python-programming-tutorial-in-hindi/installing-database-in-python)
+  - [【LearnVern-Installing Database in Python】](https://www.learnvern.com/core-python-programming-tutorial-in-hindi/installing-database-in-python)  
+
+<img src="./markups/info-markup.svg">

@@ -31,6 +31,7 @@
 
 ## 滿版介紹頁面
 提供簡易式的滿版介紹頁面，以及游標滑過時顯示更多簡介說明，方便快速了解產品資訊。
+[【健體端勢入口】](https://cbf108033.github.io/website/)
 <div align=center>
   <img alt="exercise" src="./images/exerciseIntroWeb.png" width=50%>&emsp;&emsp;&emsp;
   <img alt="exercise" src="./images/exerciseIntroWeb2.png" height="200">
